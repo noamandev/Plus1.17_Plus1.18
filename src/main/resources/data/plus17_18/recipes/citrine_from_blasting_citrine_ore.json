@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "plus17_18:citrine_ore"
+  },
+  "result": "plus17_18:citrine",
+  "experience": 0.8,
+  "cookingtime": 100
+}

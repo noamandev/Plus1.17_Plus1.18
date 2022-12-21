@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "plus17_18:block/deepslate_ruby_ore"
+  }
+}

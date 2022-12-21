@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "plus17_18:citrine_ore"
+  },
+  "result": "plus17_18:citrine",
+  "experience": 1.0,
+  "cookingtime": 150
+}
