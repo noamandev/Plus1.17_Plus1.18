@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures":{
+    "layer0": "plus17_18:item/rose_gold_shovel"
+  }
+}

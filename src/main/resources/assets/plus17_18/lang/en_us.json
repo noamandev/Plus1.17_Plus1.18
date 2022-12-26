@@ -4,6 +4,19 @@
   "item.plus17_18.citrine": "Citrine",
   "item.plus17_18.raw_citrine": "Raw Citrine",
 
+  "item.plus17_18.rose_gold_ingot": "Rose Gold Ingot",
+
+  "item.plus17_18.rose_gold_sword": "Rose Gold Sword",
+  "item.plus17_18.rose_gold_pickaxe": "Rose Gold Pickaxe",
+  "item.plus17_18.rose_gold_axe": "Rose Gold Axe",
+  "item.plus17_18.rose_gold_shovel": "Rose Gold Shovel",
+  "item.plus17_18.rose_gold_hoe": "Rose Gold Hoe",
+
+  "item.plus17_18.rose_gold_helmet": "Rose Gold Helmet",
+  "item.plus17_18.rose_gold_chestplate": "Rose Gold Chestplate",
+  "item.plus17_18.rose_gold_leggings": "Rose Gold Leggings",
+  "item.plus17_18.rose_gold_boots": "Rose Gold Boots",
+
   "block.plus17_18.ruby_block": "Ruby Block",
   "block.plus17_18.ruby_ore": "Ruby Ore",
   "block.plus17_18.deepslate_ruby_ore": "Deepslate Ruby Ore",
@@ -11,6 +24,8 @@
   "block.plus17_18.citrine_block": "Citrine Block",
   "block.plus17_18.citrine_ore": "Citrine Ore",
   "block.plus17_18.raw_citrine_block": "Raw Citrine Block",
+
+  "block.plus17_18.rose_gold_block": "Rose Gold Block",
 
   "itemGroup.moddedtab": "Modded Items"
 }

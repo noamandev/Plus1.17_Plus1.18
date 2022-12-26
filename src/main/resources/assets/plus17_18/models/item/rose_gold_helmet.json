@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures":{
+    "layer0": "plus17_18:item/rose_gold_helmet"
+  }
+}
